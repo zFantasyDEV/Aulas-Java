@@ -1,4 +1,4 @@
-// Aula sobre saída de dados.
+// Aula sobre saÃ­da de dados.
 
 package saida.dados.curso;
 
@@ -10,8 +10,8 @@ public class SaidaDeDados {
 		
 		double peso = 40.5654616314;
 		
-		// System.out.print("Ele imprime o conteúdo em apenas uma linha, sou seja, sem quebra de linha. ");
-		//System.out.println("Ele imprime o conteúdo quebrando a linha para o próximo conteúdo..");
+		// System.out.print("Ele imprime o conteÃºdo em apenas uma linha, sou seja, sem quebra de linha. ");
+		//System.out.println("Ele imprime o conteÃºdo quebrando a linha para o prÃ³ximo conteÃºdo..");
 		System.out.printf("%.2f%n", peso);
 		System.out.printf("%.4f%n", peso);
 		Locale.setDefault(Locale.US);
@@ -19,3 +19,6 @@ public class SaidaDeDados {
 	}
 	
 }
+
+
+MORRA NEGO NEY
